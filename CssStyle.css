@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+body {
+    background-color: white;
+}
+
+.player-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 100px; /* razmak između imena igrača i slike */
+}
+
+.player-image {
+    width: 250px; /* širina slike igrača */
+    height: auto; /* visina je automatska */
+}
+
+.player-names p {
+    margin: 10px 0; /* 10px razmaka vertikalno između imena igrača */
+}
