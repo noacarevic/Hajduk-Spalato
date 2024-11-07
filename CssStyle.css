@@ -1,26 +1,11 @@
-h1 {
-    color: red;
-}
+h1 {color: red;}
 
-h2 {
-    color: blue;
-}
+h2 {color: blue;}
 
-body {
-    background-color: white;
-}
+body {background-color: white;}
 
-.player-container {
-    display: flex;
-    align-items: flex-start;
-    gap: 100px; 
-}
+.player-container {display: flex;align-items: flex-start;gap: 100px;}
 
-.player-image {
-    width: 250px; 
-    height: auto; 
-}
+.player-image {width: 250px; height: auto;}
 
-.player-names p {
-    margin: 10px 0;
-}
+.player-names p {margin: 10px 0;}
