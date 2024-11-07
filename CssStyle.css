@@ -13,14 +13,14 @@ body {
 .player-container {
     display: flex;
     align-items: flex-start;
-    gap: 100px; /* razmak između imena igrača i slike */
+    gap: 100px; 
 }
 
 .player-image {
-    width: 250px; /* širina slike igrača */
-    height: auto; /* visina je automatska */
+    width: 250px; 
+    height: auto; 
 }
 
 .player-names p {
-    margin: 10px 0; /* 10px razmaka vertikalno između imena igrača */
+    margin: 10px 0;
 }
